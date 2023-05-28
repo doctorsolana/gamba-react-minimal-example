@@ -28,10 +28,10 @@ function Game() {
 function App() {
   return (
     <Gamba
-      creator="5Wu7wbvCXYHrER7tnTyV3SzzMyoDaJoyRNFQVms3kvvg"
+      creator="your-solana-address-here"
       connection={{
         endpoint:
-          "https://rpc.helius.xyz/?api-key=d1b8ca10-0ab9-4f59-9568-18a686943a7f",
+          "your-rpc-here",
       }}
     >
       <GambaUi>
