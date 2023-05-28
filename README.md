@@ -1,6 +1,6 @@
 # Minimal starter project for building games on gamba
 
-This is a simple blockchain dApp on solana that allows the user to play "double or nothing" on the solana blockchain
+This is a simple blockchain dApp on solana that allows the user to play "double or nothing" on-chain
 
 ## Available Scripts
 
